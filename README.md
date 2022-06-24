@@ -31,6 +31,7 @@
 
 Поиск по названию
 ![image](https://user-images.githubusercontent.com/73342971/175467497-da848e94-b1bd-4f73-b869-ab6bb3b00fa9.png)
+![image](https://user-images.githubusercontent.com/73342971/175467669-61a094b9-301a-49b1-b1f3-cc7bd8e29f8c.png)
 
 Ориентирование в товарах
 ![image](https://user-images.githubusercontent.com/73342971/175467569-8eaf9ae0-8f9c-4982-ba47-1d65d1fdcfb2.png)
